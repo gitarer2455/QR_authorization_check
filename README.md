@@ -29,9 +29,10 @@ This tool is ideal for building secure access control systems or for quickly con
 ## Installation
 
 To get started with the QR code scanner and automation tool, follow these steps:
-
+and after you run project use get sample images  to test  from telegram link https://t.me/zenocheto
 ```bash
 git clone https://github.com/gitarer2455/QR_authorization_check
 cd Auth_detector
 pip install -r requirements.txt
-python Qrscan.py 
+python Qrscan.py
+
